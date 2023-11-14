@@ -47,7 +47,10 @@ textarea {
   text-decoration: none;
   font-family: "Bebas Neue", sans-serif;
   font-size: 2rem;
-  
+}
+
+.Navbar a:hover {
+  cursor: pointer;
 }
 
 .card {
